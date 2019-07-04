@@ -1,0 +1,23 @@
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\obj\Debug\GameLogicUnit.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\obj\Debug\GameLogicUnit.csprojAssemblyReference.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogicUnit.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogicUnit.csprojAssemblyReference.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogicUnit.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogicUnit.csprojAssemblyReference.cache
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogicUnit.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameLogic\obj\Debug\GameLogic.pdb

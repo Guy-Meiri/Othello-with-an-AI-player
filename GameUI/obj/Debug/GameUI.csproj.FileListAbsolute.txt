@@ -1,0 +1,44 @@
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\bin\Debug\GameUI.exe
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\bin\Debug\GameUI.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\bin\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\obj\Debug\GameUI.csprojAssemblyReference.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\obj\Debug\GameUI.Properties.Resources.resources
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\obj\Debug\GameUI.exe
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\obj\Debug\GameUI.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameUI\bin\Debug\GameLogic.dll
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameUI.exe
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameUI.pdb
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameLogic.dll
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameLogic.pdb
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.Properties.Resources.resources
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.exe
+C:\Users\ethan\Desktop\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameUI.exe
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameUI.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameLogic.dll
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csprojAssemblyReference.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.Properties.Resources.resources
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.exe
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy-20190608T111326Z-001\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.pdb
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameUI.exe
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameUI.pdb
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameLogic.dll
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\bin\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csprojAssemblyReference.cache
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.Properties.Resources.resources
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.exe
+C:\Users\Guy\Desktop\working Othello with pretty pictures\B19 Ex05 Guy 201392453 Ethan 301741310 new and buggy\GameUI\obj\Debug\GameUI.pdb

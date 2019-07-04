@@ -1,0 +1,6 @@
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\bin\Debug\GameLogic.exe
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\obj\Debug\GameLogic.exe
+C:\Users\Guy\Desktop\3rd_year_sem_B\C#\homework\B19 Ex05 Guy 201392453 Ethan 301741310\GameLogic\obj\Debug\GameLogic.pdb

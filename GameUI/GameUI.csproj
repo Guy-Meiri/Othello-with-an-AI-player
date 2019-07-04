@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15EC9B9B-297C-43E6-A474-0F5E75C648F5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GameUI</RootNamespace>
+    <AssemblyName>GameUI</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="BoardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphicBoardCell.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GameLogic\GameLogicUnit.csproj">
+      <Project>{117c918a-f234-451c-8a1f-9c7181310b9d}</Project>
+      <Name>GameLogicUnit</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\CoinRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\CoinYellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\refreshBlue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\refreshGreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\Empty.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\BlackChip.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\NoChip.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\PossibleMove.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\WhiteChip.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PossibleMove.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlackChip.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhiteChip.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoChip.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Graphics\PossibleMoveImage.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
